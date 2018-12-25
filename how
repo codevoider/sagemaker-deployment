@@ -1,0 +1,214 @@
+[33mcommit c95df671925f7d398f45c524b14652154f241d82[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: codevoider <every.phu@gmail.com>
+Date:   Mon Dec 24 10:41:54 2018 +0000
+
+    mini project completion
+
+[33mcommit 243fe3f669ebed551db11674c207acf437e145a6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-16-171-115.ec2.internal>
+Date:   Fri Nov 16 20:07:05 2018 +0000
+
+    Fixed up text in notebooks and added missing files
+
+[33mcommit 898b382cd124e6a50af1d2141182b1209da4fb8c[m
+Author: EC2 Default User <ec2-user@ip-172-16-0-149.ec2.internal>
+Date:   Wed Oct 31 18:39:41 2018 +0000
+
+    Added a tutorial and mini-project dealing with changing deployed endpoints
+
+[33mcommit d0ff24bbb82d5dc8662deb99a9d3c0dc82ea2271[m
+Author: EC2 Default User <ec2-user@ip-172-16-0-149.ec2.internal>
+Date:   Mon Oct 29 20:19:45 2018 +0000
+
+    Updated to include beta testing feedback
+
+[33mcommit d4920453552e227ac229b3395a7143543510a0e1[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Wed Oct 10 10:18:30 2018 -0400
+
+    Fixed up the hyperparameter tuning notebooks
+
+[33mcommit e36d2d02560e790bc3335ba7b5239b82c0aae264[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Fri Oct 5 19:21:14 2018 -0400
+
+    Added the tutorials and mini-project using hyperparameter tuning
+
+[33mcommit d3b3dd5a13f3f436d3e463a6fd4e1ec7d0513153[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Thu Oct 4 10:10:00 2018 -0400
+
+    Added the last question to the project and update the readme
+
+[33mcommit ce022146b8b7acff8dbdb410225bf0fbfcbe3d6e[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Wed Sep 26 15:38:12 2018 -0400
+
+    Added questions to the Project, also added web app diagram.
+
+[33mcommit b39d837cfde39fd9ca1a7752647e26b9d1cde7eb[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Mon Sep 24 14:07:44 2018 -0400
+
+    Added a bit of code to remove cached files at the end of each notebook
+    and improved documentation in web app tutorial notebook.
+
+[33mcommit aa6d61a4e1052b7a8e7cddcaa704b87720c27e8b[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Wed Sep 12 09:29:54 2018 -0400
+
+    Added data / cache cleanup
+
+[33mcommit 0930c5278c64f712eecd9a0e9423b3c97da5f20a[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Mon Sep 10 16:21:29 2018 -0400
+
+    Added a missing file for a tutorial and fixed the README so that it
+    properly links to the included notebooks.
+
+[33mcommit b763f0efa5746f83d885b87851d745306f6a7597[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Mon Sep 10 16:10:47 2018 -0400
+
+    Changed the Sentiment Analysis XGBoost mini-project to use Batch
+    Transform instead of using a deployed model.
+
+[33mcommit f76be2ee40bfac3b8b53cd9f494562bacd4ec79f[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Mon Sep 10 16:09:12 2018 -0400
+
+    Added a new tutorial which walks through the process of setting up
+    Lambda and API Gateway for use with a deployed SageMaker model.
+
+[33mcommit 59c0270349e04895263ae438541c471aa77f53fc[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Mon Sep 10 16:07:40 2018 -0400
+
+    Replaced the old Boston Housing Tutorials with updated versions. Now
+    contains a Batch Transform and Deployed version.
+
+[33mcommit 620f63b2dbb926a5d4feec875d00145469dd1be9[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Fri Aug 10 12:10:40 2018 -0400
+
+    Turned XGBoost notebook into a mini-project
+
+[33mcommit 7ba44a52fe7fa43fd73f41f8f1661c2075d5e7e9[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Fri Aug 10 12:08:06 2018 -0400
+
+    Re-organized Low Level Tutorial
+
+[33mcommit b4715365e88dfc0dc7fa2e81db3aa2c77bb73844[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Thu Jul 19 15:34:47 2018 -0400
+
+    Update XGBoost Mini-Project
+
+[33mcommit 9a9bfe718150913c526cac3e73082c93224ffb5c[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Thu Jul 19 14:38:02 2018 -0400
+
+    Updated README files
+
+[33mcommit 5fc4229b301ebc8db939c3c3c2e8c4dd2778f97d[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Thu Jul 19 14:09:37 2018 -0400
+
+    Changed directory structure
+
+[33mcommit 61ac534a0a1e0b2ff62c5804d12c042ec3b23745[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Mon Jul 16 16:35:33 2018 -0400
+
+    Updated READMEs
+
+[33mcommit ac34d602bbe5f36486da3fd630b44dad9f75abcc[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Mon Jul 16 16:25:33 2018 -0400
+
+    Project added
+
+[33mcommit 4ef117f02a421bb7853128e011030bfa259b6b02[m
+Author: Jennifer Staab <jenniferstaab@Jennifers-MacBook-Pro-2.local>
+Date:   Sat Jul 14 05:59:04 2018 -0400
+
+    Initial Notebook on Automatic Model Tuning
+
+[33mcommit e8e6d5ae05c74a5dfd328fb60c9e71c5ad658c1e[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Fri Jun 15 16:21:51 2018 -0400
+
+    Fixed a small bug, added some more comments to the notebooks and cleaned them up. Also cleaned up the README files.
+
+[33mcommit 42a9f2be051e496a09a9086e2708072177748d4d[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Thu Jun 14 16:09:49 2018 -0400
+
+    Improved the Sentiment Analysis web app and fixed up the corresponding Lambda function
+
+[33mcommit 0d4948b69dddf5170cdbb1d723914110632c3ce7[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Wed Jun 13 16:47:55 2018 -0400
+
+    Added Custom Model API notebook and supporting files
+
+[33mcommit f4ec890e76351d5dd09f532065223cee817234d4[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Wed Jun 13 13:22:56 2018 -0400
+
+    Fixed a typo in XGBoost Sentiment Analysis notebook
+
+[33mcommit f6c4fc160b2f10d6fe265b03896d13a159ded275[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Wed Jun 13 07:22:24 2018 -0400
+
+    Commented and cleaned up Sentiment Analysis code
+
+[33mcommit 56bd5159814c6d4341f21b7eb2d32f2085c183e3[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Tue Jun 12 15:50:30 2018 -0400
+
+    Updated README
+
+[33mcommit d9a2ceb966815705236a488d883964e43991f1aa[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Tue Jun 12 15:42:18 2018 -0400
+
+    Added PyTorch Sentiment Analysis notebook and supporting files
+
+[33mcommit cc2a3cde93c9673fc20c6ad124624ac3d3c07ac4[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Mon Jun 11 18:46:47 2018 -0400
+
+    Fixed README ... again
+
+[33mcommit 56a6c45e8c7cee3134ad2d70b16effcccc769d24[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Mon Jun 11 18:44:34 2018 -0400
+
+    Fixed spacing in README
+
+[33mcommit 357ea2b564071dc737ae60dfdd43ee3bac92cd93[m
+Author: Sean Carrell <s.r.carrell@gmail.com>
+Date:   Mon Jun 11 18:40:00 2018 -0400
+
+    Added XGBoost Notebook
+
+[33mcommit f220c60d90d1eb144fb0d980ff8a9024638765db[m
+Author: j-staab <jennifer.staab@udacity.com>
+Date:   Wed May 30 17:42:52 2018 -0400
+
+    Adding gitignore
+
+[33mcommit 86d7f583664c009b9f33f615504a74de9b775787[m
+Author: Jennifer Staab <35049940+j-staab@users.noreply.github.com>
+Date:   Wed May 30 17:31:09 2018 -0400
+
+    Create README.md
+
+[33mcommit c5d51a8da452f6ab6ac3556ce6e799f0a07b8752[m
+Author: Jennifer Staab <35049940+j-staab@users.noreply.github.com>
+Date:   Wed May 30 16:52:47 2018 -0400
+
+    Initial commit
